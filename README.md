@@ -2,7 +2,9 @@
 
 ## Estudiante: Franco Polesel
 
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
+Me llamo Franco y estoy probando GitHub.
+
+![Este soy yo](frantano2021.jpg)
 
 Consiste en hacer 2 simples tareas:
 - [x] **Editar este archivo completando tu nombre**. Para eso basta con 
